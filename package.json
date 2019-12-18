@@ -12,7 +12,7 @@
   "dependences": {},
   "devDependencies": {
     "gulp": "3.9.x",
-    "gulp-concat": "~2.1.x",
+    "gulp-concat": "~2.6.x",
     "gulp-connect": "~2.0.5",
     "gulp-jshint": "~1.5.1",
     "gulp-replace": "^0.4.0",
